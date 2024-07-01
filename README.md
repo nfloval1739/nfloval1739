@@ -2,9 +2,8 @@
 - 👀 I’m interested in Geospatial Data Science
 - 🌱 I’m currently learning Python and Java Script
 - 💞️ I’m looking to collaborate on any research project according to that
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him
+
 
 <!---
 nfloval1739/nfloval1739 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
